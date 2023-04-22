@@ -1,0 +1,83 @@
+{
+  "name": "Mean, Median, & SD",
+  "fields": {
+    "first": {
+      "label": "First",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "second": {
+      "label": "Second",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "third": {
+      "label": "Third",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "fourth": {
+      "label": "Fourth",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "fifth": {
+      "label": "Fifth",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "sixt": {
+      "label": "Sixt",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "seventh": {
+      "label": "Seventh",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "eighth": {
+      "label": "Eighth",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "nineth": {
+      "label": "Nineth",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "tenth": {
+      "label": "Tenth",
+      "type": "number",
+      "readOnly": false,
+      "calculate": null
+    },
+    "mean": {
+      "label": "Mean",
+      "type": "number",
+      "readOnly": true,
+      "calculate": "mean"
+    },
+    "median": {
+      "label": "Median",
+      "type": "number",
+      "readOnly": true,
+      "calculate": "median"
+    },
+    "sd": {
+      "label": "Standard Deviation",
+      "type": "number",
+      "readOnly": true,
+      "calculate": "sd"
+    }
+  }
+}
